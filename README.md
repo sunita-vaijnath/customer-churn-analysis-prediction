@@ -1,4 +1,4 @@
-# customer-churn-analysis-prediction
+# Customer-Churn-Analysis-Prediction
 Customer Churn Analysis and Prediction project developed  Data Analysis project. This project uses exploratory data analysis, customer segmentation, Logistic Regression, churn risk analysis, customer lifetime value analysis, and an interactive Power BI dashboard to identify key churn drivers and provide data-driven customer retention strategies.
 ## Dataset
 `Telco_Customer_Churn_Dataset_.csv` — 7,043 customer records, 21 columns
@@ -46,8 +46,6 @@ Customer_Churn_Analysis_Project/
 │       └── (12 saved PNG chart files)
 │
 ├── README.md
-└── requirements.txt
-
 
 ## Key Findings
 - **Overall churn rate: 26.54%** (1,869 of 7,043 customers).
